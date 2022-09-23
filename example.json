@@ -7,7 +7,7 @@
         "schemaVersion": "3.0.0",
         "id": "example-declaration-01",
         "label": "Sample 1",
-        "remark": "Simple HTTP application with round robin pool",
+        "remark": "Simple HTTP application with round robin pool ",
         "Terraform": {
             "class": "Tenant",
             "defaultRouteDomain": 0,
